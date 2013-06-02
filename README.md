@@ -1,3 +1,13 @@
+**Update:**   
+Kevin Cernekee wrote me that he created a token generator compatible with SecurID. It is open sourced and can be run natively on Linux and I suggest to use it instead:  
+[stoken on GitHub](https://github.com/cernekee/stoken)  
+[SourceForge project page](http://stoken.sf.net)  
+   
+---
+   
+   
+   
+    
 This is a set of scripts for running RSA SecurID from the Linux command 
 line.
 
